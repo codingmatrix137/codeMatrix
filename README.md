@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mr. Impulse</h1>
+<h1 align="center">Hi 👋, I'm Coding matrix</h1>
 <h3 align="center">Wannabe youtuber</h3>
 
 - 🌱 I’m currently learning **React JS**
